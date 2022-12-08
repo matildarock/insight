@@ -1,9 +1,9 @@
-#Create Breakout Game using Python
-##step by step
+# Create Breakout Game using Python 
+## step by step
 
 
 
-##step1
+## step1
 Import the required libraries
 ```bash
 import math
@@ -12,7 +12,7 @@ import time
 from turtle import *
 import turtle
 ```
-##step2
+## step2
 we must make required functions
 ```bash
 def make_block(x, y):
@@ -52,9 +52,9 @@ def do_right():
 def do_left():
     pass
 ```
-##step3
+## step3
 Write the required commands in each function
-####def make_block(x, y)
+#### def make_block(x, y)
 ```bash
     colors = ['red', 'blue', 'green', 'cyan', 'purple', 'yellow', 'orange']
     t = Turtle()
@@ -65,7 +65,7 @@ Write the required commands in each function
     t.color(random.choice(colors))
     return t
 ```
-####def init_blocks()
+#### def init_blocks()
 ```bash
     blocks_x_pos = [-340, -230, -120, -10, 100, 210, 320]
     blocks_y_pos = [280, 255, 230, 205, 180]
@@ -76,7 +76,7 @@ Write the required commands in each function
             blocks.append(t)
     return blocks
 ```
-####def init_ball()
+#### def init_ball()
 ```bash
     ball = Turtle()
     ball.shape('circle')
@@ -88,7 +88,7 @@ Write the required commands in each function
     ball.color('white')
     return ball
 ```
-####def init_screen()
+#### def init_screen()
 ```bash
     win = Screen()
     win.setup(width=800, height=600)
@@ -97,7 +97,7 @@ Write the required commands in each function
     win.title('Breakout Game')
     return win
 ```
-####def make_paddle()
+#### def make_paddle()
 ```bash
     t = Turtle()
     t.shape('square')
@@ -107,7 +107,7 @@ Write the required commands in each function
     t.color("green")
     return t
 ```
-####def init()
+#### def init()
 ```bash
     screen = init_screen()
     blocks = init_blocks()
@@ -115,67 +115,67 @@ Write the required commands in each function
     ball = init_ball()
     return ball, paddle, blocks, screen 
 ```
-####def move_ball(ball)
+#### def move_ball(ball)
 ```bash
     ball.setpos(ball.xcor()+ball.dx, ball.ycor()+ball.dy)
 ```
-####def hit(t1, t2)
+#### def hit(t1, t2)
 ```bash
     return math.fabs(t1.xcor() - t2.xcor()) < 110 and \
        math.fabs(t1.ycor() - t2.ycor()) < 25
 ```
-####def hit_block(ball, blocks)
+#### def hit_block(ball, blocks)
 ```bash
     for b in blocks:
         if hit(ball, b):
             return b
 ```
 
-####def hit_side_border(ball, screen)
+#### def hit_side_border(ball, screen)
 ```bash
     return ball.xcor() > screen.window_width()/2 - 10
 ```
 
-####def hit_top_border(ball, screen)
+#### def hit_top_border(ball, screen)
 ```bash
     return ball.ycor() > screen.window_height()/2 - 10
 ```
 
 
-####def hit_right_border(ball,screen)
+#### def hit_right_border(ball,screen)
 ```bash
     return ball.xcor() < -screen.window_width()/2 - 10
 ```
-####def remove_block(block)
+#### def remove_block(block)
 ```bash   
     block.setpos(10000, 10000)
 ```
 
-####def hit_paddle(ball, paddle)
+#### def hit_paddle(ball, paddle)
 ```bash
    if ball.xcor()-50 <=paddle.xcor()<=ball.xcor()+50 and ball.ycor() - 20==paddle.ycor() :
        change_direction_y(ball)
 ```
 
-####def change_direction_x(ball)
+#### def change_direction_x(ball)
 ```bash
     ball.dx = -ball.dx
 ```
 
-####def change_direction_y(ball)
+#### def change_direction_y(ball)
 ```bash
     ball.dy = -ball.dy
 ```
-####def do_right()
+#### def do_right()
 ```bash
     paddle.setpos(paddle.xcor() + 8, paddle.ycor())
 ```
 
-####def do_left()
+#### def do_left()
 ```bash
     paddle.setpos(paddle.xcor() - 8, paddle.ycor())
 ```
-##step4
+## step4
 ```bash
 ball, paddle, blocks, screen = init()
 scren = turtle.Screen()   
@@ -200,7 +200,8 @@ while True:
     screen.update()
     time.sleep(0)
 ```
-##step5
+## step5
 Run the Python code and enjoy:)
+
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220616181820/FinalCodeOutput.gif">
 
