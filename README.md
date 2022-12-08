@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 # Create Breakout Game using Python
 ## step by step
 <g-emoji class="g-emoji" alias="baseball" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26be.png">⚾</g-emoji>
 break out
 
 
+=======
+# Create Breakout Game using Python 
+## step by step
+
+
+
+>>>>>>> e66ecc4c1291b98cff139cf3307be18cd8756336
 ## step1
 Import the required libraries
 ```bash
@@ -203,5 +211,6 @@ while True:
 ```
 ## step5
 Run the Python code and enjoy:)
+
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220616181820/FinalCodeOutput.gif">
 
