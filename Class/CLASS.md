@@ -104,6 +104,9 @@ study_room.calculate_area()
 ```
 output: Area of Room = 1309.0
 
+Here is also some hints about class:
+(https://www.notion.so/694b349021ce4be7a0853fec93bde144)
+
 
 
 
