@@ -10,7 +10,7 @@ This repositories contain articles in Markdown language about various topics. Th
 [Here is also a short tutorial about how to contribute to this repository for students. ](https://www.notion.so/amin-mag/Documentation-ed83b200250d4859a264ed5eefb5fc55) |
 | [class]("Class/CLASS.md")  | [Ayda Reyhani](https://github.com/ayda0607)  |  401521273  |  [git site](https://aydareyhani.github.io) |
 
-[Here is also some hints about class ](https://buttoned-dress-271.notion.site/The-__init__-Function-694b349021ce4be7a0853fec93bde144) |
+[Here is also some hints about class ](https://www.notion.so/The-__init__-Function-694b349021ce4be7a0853fec93bde144) |
 
 > This repository is contributed by the students of **Fundamentals of Computer Programming 2022 and Computer Workshop 2022** course at Iran University of Science and Technology.
  
