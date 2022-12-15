@@ -1,4 +1,4 @@
-#About_Tuples_in_python:
+#aboutTuplesinpython:
 Tuples are used to store multiple items in a single variable. A tuple is a collection which is ordered and unchangeable. meaning that we cannot change, add or remove items after the tuple has been created.
 tuple items are indexed, the first item has index [0]
 you can add something to tuple by using append and also delete by using remove.,
