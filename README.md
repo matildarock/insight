@@ -12,7 +12,6 @@ This repository contains articles in Markdown language about various topics. Thi
 | [Python Tuple](Tuple/Tuple.md)  | [saba bagheri](https://github.com/sababagheri1382)  |   401521075  |  [w3schools](https://www.w3schools.com/) |
 | [C pointers](https://github.com/arghavanfotouhi/insight/blob/master/C%20Pointers.md)  | [Arghavan fotouhi](https://github.com/arghavanfotouhi)  |  401521453  |  [cs107](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN) , [C pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm#) |
 | [Command Prompt in MacOS](macOS/command.md)  |  [mina shabani](https://mina-shabani.github.io/)  | 401521363 |  [makeuseof](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/) , [alphr](https://www.alphr.com/open-command-prompt-mac/),[support.apple](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac) |  
-
 |[Azure-DevOps](Azure-DevOps/Azure-DevOps.md)|[Arsalan Zanganeh](https://github.com/Esi-Khafan)| 401521228 |  [Azure-DevOps documentation](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops) |
 
 [Here is also a short tutorial about how to contribute to this repository for students. ](https://www.notion.so/About-tuples-in-python-b2e414f601db41c09a983535d3a7ce88)
