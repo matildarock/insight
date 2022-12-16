@@ -13,6 +13,7 @@ This repository contains articles in Markdown language about various topics. Thi
 | [Command Prompt in MacOS](macOS/command.md)  |  [mina shabani](https://mina-shabani.github.io/)  | 401521363 |  [makeuseof](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/) , [alphr](https://www.alphr.com/open-command-prompt-mac/),[support.apple](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac) |  
 | [Azure-DevOps](Azure-DevOps/Azure-DevOps.md)|[Arsalan Zanganeh](https://github.com/Esi-Khafan)| 401521228 |  [Azure-DevOps documentation](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops) |
 | [10 Python tips](https://github.com/MaysaGharehgozli/insight/blob/master/10_python_tips.md)|[maysa](https://github.com/MaysaGharehgozli)| 401521498 |  [python](https://www.python.org) , [python_tips](https://www.datacamp.com/tutorial)|
+| [HTTP](HTTP/HTTP.md)  | [Nazanin Mahmoodi](https://github.com/nazaninma)  |  401522097  | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview#basic_aspects_of_http) |
 
 [Here is also a short tutorial about how to contribute to this repository for students. ](https://www.notion.so/About-tuples-in-python-b2e414f601db41c09a983535d3a7ce88)
 
