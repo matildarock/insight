@@ -14,6 +14,7 @@ This repository contains articles in Markdown language about various topics. Thi
 | [Azure-DevOps](Azure-DevOps/Azure-DevOps.md)|[Arsalan Zanganeh](https://github.com/Esi-Khafan)| 401521228 |  [Azure-DevOps documentation](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops) |
 | [10 Python tips](https://github.com/MaysaGharehgozli/insight/blob/master/10_python_tips.md)|[maysa](https://github.com/MaysaGharehgozli)| 401521498 |  [python](https://www.python.org) , [python_tips](https://www.datacamp.com/tutorial)|
 | [HTTP](HTTP/HTTP.md)  | [Nazanin Mahmoodi](https://github.com/nazaninma)  |  401522097  | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview#basic_aspects_of_http) |
+| [windows terminal](windows_terminal/windows_terminal.md) | [Yasaman Kargar](http://github.com/yasamankaregar) | 401522007 | [cmd webdite](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_W) |
 
 [Here is also a short tutorial about how to contribute to this repository for students. ](https://www.notion.so/About-tuples-in-python-b2e414f601db41c09a983535d3a7ce88)
 
