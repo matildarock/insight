@@ -4,7 +4,7 @@ This repository contains articles in Markdown language about various topics. Thi
 
 | Topic (Directory Name) | Author | Student ID | Resources |
 | ------------- | ------------- | ------------- | ------------- |
-| [Systemctl in Linux](systemctl-in-linux/systemctl-in-linux.md)  | [Amin Ghasvari](https://github.com/Amin-MAG)  |  97521432  |  [How To Add Your Own Services to systemd For Easier Management](https://www.cloudsavvyit.com/3092/how-to-add-your-own-services-to-systemd-for-easier-management/), [Creating a Linux service with systemd](https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6)  |
+| [Systemctl in Linux](systemctl-in-linux/systemctl-in-linux.md)  | [Amin Ghasvari](https://github.com/Amin-MAG)  |  97521432  |  [How To Add Your Own Services to systemd For Easier Management](https://www.cloudsavvyit.com/3092/how-t
 | [HUGO](hugo/hugo.md)  | [Liam Martinez](https://github.com/Liam-Martinez)  |  400520000  |  [Hugo website](https://gohugo.io/) |[Here is also a short tutorial about how to contribute to this repository for students. ](https://www.notion.so/amin-mag/Documentation-ed83b200250d4859a264ed5eefb5fc55) |
 | [Python Class](Class/CLASS.md)  | [Ayda Reyhani](https://github.com/ayda0607/insight)  |  401521273  |[Here is also some hints about class ](https://buttoned-dress-271.notion.site/694b349021ce4be7a0853fec93bde144) |
 | [Git Doc](https://github.com/Dorsasaadat/insight/blob/master/gitdoc/gitdoc.md)|[Dorsa](https://github.com/Dorsasaadat)| 401521291 |  [git commands](https://dzone.com/articles/top-20-git-commands-with-examples) , [what is git and GitHub](https://blog.hubspot.com/website/what-is-github-used-for) |
@@ -15,6 +15,7 @@ This repository contains articles in Markdown language about various topics. Thi
 | [10 Python tips](https://github.com/MaysaGharehgozli/insight/blob/master/10_python_tips.md)|[maysa](https://github.com/MaysaGharehgozli)| 401521498 |  [python](https://www.python.org) , [python_tips](https://www.datacamp.com/tutorial)|
 | [HTTP](HTTP/HTTP.md)  | [Nazanin Mahmoodi](https://github.com/nazaninma)  |  401522097  | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview#basic_aspects_of_http) |
 | [windows terminal](windows_terminal/windows_terminal.md) | [Yasaman Kargar](http://github.com/yasamankaregar) | 401522007 | [cmd webdite](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_W) |
+| [Make Game in Python](MakeGameInPython/MakeGameInPython.md)  | [Sanya Masoudi](https://sanyamasoudi.github.io/sanyamasoudi/)  |  401522115  |  [geeksforgeeks website](https://www.geeksforgeeks.org/create-breakout-game-using-python/) |
 
 [Here is also a short tutorial about how to contribute to this repository for students. ](https://www.notion.so/About-tuples-in-python-b2e414f601db41c09a983535d3a7ce88)
 
